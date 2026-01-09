@@ -1,0 +1,7 @@
+{
+  "name": "ArthaAI - Mutual Fund Predictor",
+  "description": "An advanced AI-powered mutual fund profit predictor for Indian investors with SIP/Lumpsum calculations, market risk range estimation, and OCR screenshot analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
